@@ -60,7 +60,7 @@ if ($resultado->num_rows > 0) {
     }
     $salida .= "</tbody></table>";
 } else {
-    $salida .= "NO HAY DATOS :(";
+    $salida .= "NO EXISTE DATOS :(";
 }
 
 
